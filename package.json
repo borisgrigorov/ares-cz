@@ -1,9 +1,8 @@
 {
-  "name": "ares",
+  "name": "ares-cz",
   "version": "1.0.0",
   "author": "Boris Grigorov <boris.grigorov@vvveb.cz>",
   "dependencies": {
-    "@types/node": "^20.2.5",
     "fast-xml-parser": "^4.2.2",
     "node-fetch": "^2.6.11"
   },
